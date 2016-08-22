@@ -4,6 +4,7 @@
 
 # Go cd monitor
 Build monitor for Go cd build server https://www.go.cd/
+Robert Glas Fork: Trying to add Behave test result compatibility (currently it's only compatible with Cucumber JSON test result format).
 #### Pipeline status
 * Blue - Pipeline is building
 * Green - Pipeline build passed
